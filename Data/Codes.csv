@@ -1,0 +1,26 @@
+﻿Name,Abbreviation,Code,Group,Cell,Filename,Additives,Notes,Incomplete,Source
+Dulbecco's Modified Eagle's Medium ,DMEM,DMEM,Basal Media,,DMEM.csv,,,,https://www.thermofisher.com/ca/en/home/technical-resources/media-formulation.14.html 
+Roswell Park Memorial Institute - 1640,RPMI,RPMI,Basal Media,,RPMI.csv,,,,https://www.thermofisher.com/ca/en/home/technical-resources/media-formulation.114.html 
+Advanced RPMI,aRPMI,aRPMI,Basal Media,,aRPMI.csv,,,,
+Minimum Essential Medium ,MEM,MEM,Basal Media,,MEM.csv,,,,
+Iscove's Modified Dulbecco's Medium ,IMDM,IMDM,Basal Media,,IMDM.csv,,,,
+Ham’s F12,F12,F12,Basal Media,,F12.csv,,,,
+DMEM/F12 ,DMEM/F12,DMEM.F12,Basal Media,,DMEM-F12.csv,,,,https://www.sigmaaldrich.com/CA/en/technical-documents/technical-article/cell-culture-and-cell-culture-analysis/mammalian-cell-culture/dme-f120 
+aDMEM/F12 ,aDMEM/F12,aDMEM.F12,Basal Media,,aDMEM-F12.csv,,,,
+Advanced DMEM,aDMEM ,aDMEM,Basal Media,,aDMEM.csv,,,,https://www.thermofisher.com/ca/en/home/technical-resources/media-formulation.1.html
+F-10 Nutrient Mixture (Ham’s F10),F10,F10,Basal Media,,F10.csv,,,,
+McCoy's 5A,McCoy5A,McCoy5A,Basal Media,,McCoy.csv,,,,
+KnockOut™ Serum Replacement,KOSR,KOSR,Serum-Replacement Supplement,"Human embryonic stem cell, Human induced pluripotent stem cell",KOSR.csv,,,,
+Neurobasal Medium,NBM,NBM,Basal Media,Neuronal cell,NBM.csv,,,,
+StemPro™ hESC SFM,StemPro,StemPro,Serum Free Media,"Human embryonic stem cell, Human induced pluripotent stem cell",StemPro.csv,"FGF-basic, 2-Mercaptoethanol",DMEM⁄F-12 + GlutaMAX™ + BSA + Additives + Supplements,StemPro hESC supplement,
+mTeSR™1,mTeSR™1,mTeSR,Serum Free Media,"Human embryonic stem cell, Human induced pluripotent stem cell",mTeSR.csv,,DMEM/F12 + Supplements,,
+Essential 8™ Medium,E8,E8,Serum Free Media,"Human embryonic stem cell, Human induced pluripotent stem cell",TeSR-E8.csv,,DMEM/F12 + Supplements,,
+Endothelial Cell Growth Medium,ECGM,ECGM,Low Serum Media,Endothelial cell,ECGM.csv,,,,
+EpiLife™ Medium,EpiLife™,EpiLife,Basal Media,"Human epidermal keratinocyte, Human corneal epithelial cell",EpiLife.csv,,,,
+N2B27 Medium,N2B27,N2B27,Serum Free Media,Human embryonic stem cell,N2B27.csv,,DMEM/F12 + Neurobasal Medium + N2 + B27,,
+StemSpan™ Media,StemSpan™,StemSpan,Serum Free Media,Hematopoietic stem and progenitor cell,StemSpan.csv,,IMDM + Supplements,,
+UltraCULTURE™,UC,UC,Serum Free Media,Mammalian cell,UC.csv,,DMEM/F12 + Supplements,,
+N2plus,N2,N2,Serum-Replacement Supplement,Neuronal cell,N2.csv,,,,https://www.rndsystems.com/products/n-2-plus-media-supplement_ar003
+B27,B27,B27,Serum-Replacement Supplement,Neuronal cell,B27.csv,,,,https://www.thermofisher.com/ca/en/home/technical-resources/media-formulation.250.html 
+Essential 6™ Medium,E6,E6,Serum Free Media,Human induced pluripotent stem cell,E6.csv,,DMEM/F12 + Supplements,,"https://stemcellres.biomedcentral.com/articles/10.1186/s13287-018-0928-8#:~:text=E8%20medium%20is%20a%20chemically,conditions%20of%20hDPSCs%20very%20practical. "
+PluriSTEM™,PluriSTEM,PluriSTEM,Serum Free Media,"Human embryonic stem cell, Human induced pluripotent stem cell",PluriSTEM.csv,,DMEM/F12 + Supplements,,https://pmc.ncbi.nlm.nih.gov/articles/PMC6881038/
