@@ -2,7 +2,7 @@ library(tidyverse)
 library(pheatmap)
 library(ggrepel)
 
-setwd("C:/Users/kathy/OneDrive - Dalhousie University/Graduate School/Cell Culture/Media Review")
+setwd(")
 
 codes <- read.csv("Codes.csv")
 
